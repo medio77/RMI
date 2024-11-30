@@ -122,6 +122,3 @@ public class Client {
 
 Feel free to submit issues, suggestions, or pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
